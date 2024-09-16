@@ -1,0 +1,3 @@
+class Recognize_Language  {
+
+}
